@@ -59,7 +59,7 @@ Récapitulatif complet de la configuration avant installation :
 ---
 
 ### 07 — Prerequisites Check
-Vérification des prérequis : tous les contrôles sont passés avec succès ("All prerequisite checks passed successfully"). Des avertissements non bloquants sont affichés concernant la délégation DNS — normaux dans un environnement isolé AWS.
+Vérification des prérequis : tous les contrôles sont passés avec succès ("All prerequisite checks passed successfully"). Des avertissements non bloquants sont affichés concernant la délégation DNS, normaux dans un environnement isolé AWS.
 
 ![Prerequisites Check](https://raw.githubusercontent.com/npessy/projet-active-directory/main/images/02_installation/07_prerequisites_check.png)
 
