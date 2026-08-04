@@ -29,3 +29,7 @@ Configuration de l'audit `Audit User account management` (succès et échec) dan
 Configuration du paramètre `Deny Log on as a service` dans la stratégie `SydneyOUPolicy`, appliqué au groupe `Sydney Administrators`. Cette restriction empêche les comptes de ce groupe d'être utilisés pour démarrer des services Windows — une mesure de durcissement limitant la surface d'attaque en cas de compromission d'un compte administrateur.
 
 ![04_GPO_deny_logon_as_service_sydney_admins](https://raw.githubusercontent.com/npessy/projet-active-directory/main/images/06_configurer_les_parametres_de_securite/03_tache/04_GPO_deny_logon_as_service_sydney_admins.png)
+
+---
+
+[← Retour au sommaire principal](../../README.md)
