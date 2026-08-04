@@ -15,5 +15,7 @@ Une Elastic IP a été associée à chaque instance afin de garantir une adresse
 
 ![Elastic IP](https://raw.githubusercontent.com/npessy/projet-active-directory/main/images/01_preparation/02_elastic_ip.png)
 
+---
+
 [← Retour au sommaire principal](../../README.md) · [Étape suivante →](../02_installation/README.md)
 
