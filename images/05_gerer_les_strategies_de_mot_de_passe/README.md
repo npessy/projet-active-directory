@@ -29,3 +29,7 @@ Application directe de la stratégie `Domain Admin Password Policy` au groupe `D
 Activation de la fonctionnalité "Recycle Bin" depuis "Active Directory Administrative Center", permettant la restauration d'objets Active Directory supprimés par erreur (utilisateurs, groupes, OU). Cette fonctionnalité, une fois activée, est irréversible.
 
 ![04_AD_recycle_bin_enabled](https://raw.githubusercontent.com/npessy/projet-active-directory/main/images/05_gerer_les_strategies_de_mot_de_passe/03_tache/04_AD_recycle_bin_enabled.png)
+
+---
+
+[← Retour au sommaire principal](../../README.md) · [Étape suivante →](../06_configurer_les_parametres_de_securite/README.md)
