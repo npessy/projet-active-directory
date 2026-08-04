@@ -15,8 +15,7 @@ Ce projet a été entièrement réalisé sur **AWS EC2 (Free Tier)**, en remplac
 
 ## Contexte du projet
 
-Ce projet s'appuie sur le [projet guidé Microsoft "Administrer les services de domaine Active Directory"](https://learn.microsoft.com/fr-fr/training/modules/guided-project-administer-active-directory-domain-services/) (parcours AZ-1008), complété par des formations en ligne certifiantes (MOOCs) : Cisco NetAcad pour les réseaux, Microsoft Learn pour Windows Server et Active Directory.
-
+Ce projet s'appuie sur le [projet guidé Microsoft "Administrer les services de domaine Active Directory"](https://learn.microsoft.com/fr-fr/training/modules/guided-project-administer-active-directory-domain-services/).
 ## Sommaire du projet
 
 ### [01 — Préparation de l'infrastructure](./images/01_preparation/README.md)
