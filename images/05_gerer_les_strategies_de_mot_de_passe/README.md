@@ -10,7 +10,7 @@ Modification de la stratégie "Default Domain Policy" via la console Group Polic
 ## Tâche 2 — Configurer une stratégie de mot de passe granulaire (Fine-Grained Password Policy)
 
 ### 02 — Création de la stratégie renforcée pour les administrateurs
-Création d'une nouvelle stratégie de mot de passe granulaire nommée `Domain Admin Password Policy` depuis "Active Directory Administrative Center", avec une précédence de `1` et une longueur minimale de mot de passe de `16 caractères` — une exigence plus stricte que la stratégie par défaut du domaine.
+Création d'une nouvelle stratégie de mot de passe granulaire nommée `Domain Admin Password Policy` depuis "Active Directory Administrative Center", avec une précédence de `1` et une longueur minimale de mot de passe de `16 caractères`, une exigence plus stricte que la stratégie par défaut du domaine.
 
 ![02_PSO_domain_admin_password_policy_creation](https://raw.githubusercontent.com/npessy/projet-active-directory/main/images/05_gerer_les_strategies_de_mot_de_passe/02_tache/02_PSO_domain_admin_password_policy_creation.png)
 
