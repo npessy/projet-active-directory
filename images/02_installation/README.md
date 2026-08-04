@@ -69,3 +69,7 @@ Vérification des prérequis : tous les contrôles sont passés avec succès ("A
 Confirmation post-redémarrage dans Server Manager que le domaine `tailwindtraders.internal` est bien actif et associé au serveur `EC2AMAZ-LJLP1AQ`.
 
 ![Domaine créé](https://raw.githubusercontent.com/npessy/projet-active-directory/main/images/02_installation/08_domaine_cree_tailwindtraders.png)
+
+---
+
+[← Retour au sommaire principal](../../README.md) · [Étape suivante →](../03_configurer_les_operations_du_controleur_de_domaine/README.md)
