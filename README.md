@@ -1,6 +1,6 @@
 # Projet : Administrer Active Directory Domain Services
 
-Ce projet guidé illustre, étape par étape, la mise en place et l'administration d'une infrastructure Active Directory complète sur AWS — de la préparation des serveurs jusqu'au durcissement de la sécurité. Le détail de chaque étape est disponible dans le sommaire ci-dessous.
+Ce projet guidé illustre, étape par étape, la mise en place et l'administration d'une infrastructure Active Directory complète sur AWS, de la préparation des serveurs jusqu'au durcissement de la sécurité. Le détail de chaque étape est disponible dans le sommaire ci-dessous.
 
 ## Infrastructure
 
