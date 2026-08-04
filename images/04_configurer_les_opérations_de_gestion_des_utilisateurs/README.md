@@ -80,3 +80,7 @@ Sélection de la tâche `Reset user passwords and force password change at next 
 Confirmation de la délégation de contrôle sur l'unité d'organisation `tailwindtraders.internal/Sydney`, accordée au groupe `Sydney Administrators` pour la réinitialisation des mots de passe.
 
 ![11_delegation_confirmation](https://raw.githubusercontent.com/npessy/projet-active-directory/main/images/04_configurer_les_opérations_de_gestion_des_utilisateurs/04_tache/11_delegation_confirmation.png)
+
+---
+
+[← Retour au sommaire principal](../../README.md) · [Étape suivante →](../05_gerer_les_strategies_de_mot_de_passe/README.md)
