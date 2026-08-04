@@ -14,3 +14,6 @@ Les deux instances sont déployées dans le même VPC, leur permettant de commun
 Une Elastic IP a été associée à chaque instance afin de garantir une adresse IP publique fixe entre les sessions de travail.
 
 ![Elastic IP](https://raw.githubusercontent.com/npessy/projet-active-directory/main/images/01_preparation/02_elastic_ip.png)
+
+[← Retour au sommaire principal](../../README.md) · [Étape suivante →](../02_installation/README.md)
+
